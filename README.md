@@ -38,3 +38,9 @@
 > From the exploratory analysis performed, the key insights for the presentation will be based on the following questions:
 >> - Who are the user_types of Ford GoBike System?
 >> - What variable(s) can predict an increase in business profits if business strategies are made to explore them?.
+
+# Dependencies (Libraries need)
+> - `Seaborn`
+> - `Numpy`
+> - `Matplotlib`
+> - `Pandas`
