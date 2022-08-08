@@ -25,8 +25,8 @@
 > - From the plot, it was observed that both customer and subscriber user types of age less than 80 years were associated with high count of bike ride duration
 
 
-
-> #### _From the exploratory analysis performed, It was found that:_
+ 
+#### _From the exploratory analysis performed, It was found that:_
 >> - The user-types of Ford GoBike were mainly Customers and Subscribers. In terms of sex of members, the gender was categorically Male, Female and Other.
 >> - Males formed the highest population of members, followed by Females and Other genders respectively.
 >> - Members (user types) of younger ages were associated with high duration of bike ride durations whereas older aged members recorded short ride durations.
