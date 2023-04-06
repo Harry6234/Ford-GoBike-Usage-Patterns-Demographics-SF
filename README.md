@@ -27,6 +27,7 @@ Based on the findings, several insights were uncovered:
 
 
 ![alt text](chart3.svg)
+![alt text](chart6.svg)
 
 
 
