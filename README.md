@@ -26,10 +26,7 @@ Based on the findings, several insights were uncovered:
 - The company could create special promotions or incentives for users to encourage bike sharing.
 
 
-<img src=chart3.svg alt="description of image"> 
-<img src=chart6.svg alt="description of image"> 
-<img src=chart7.svg alt="description of image"> 
-<img src=chart8.svg alt="description of image">
+![alt text](chart3.svg, chart6.svg, chart7.svg, chart8.svg)
 
 
 
