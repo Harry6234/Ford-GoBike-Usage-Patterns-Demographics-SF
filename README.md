@@ -1,4 +1,4 @@
-# Ford GoBike System Data Exploration
+# Exploring the Usage Patterns and Demographics of Ford GoBike System Users in the San Francisco Bay Area
 
 ## Overview
 
