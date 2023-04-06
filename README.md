@@ -1,40 +1,35 @@
 # Ford GoBike System Data Exploration
 
-## Introduction
+## Overview
 
-This report explores a dataset that includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. The dataset contains 183,412 entries and 16 features(columns) which include duration, start time, end time, station ID, station name, bike ID, user type, and more. 
-
-The purpose of this analysis is to identify trends and insights in the data that can help optimize the bike-sharing system.
-
-## Dataset Overview
-
-The dataset contained 183,412 entries with missing data in several columns such as station ID, station name, member birth year, and member gender.
+This report analyzes the Ford GoBike System, a bike-sharing system in the greater San Francisco Bay area. The dataset includes 183,412 rides made by individual users, with 16 features such as duration, start and end times, start and end stations, bike ID, user type, and member demographics. 
 
 ## Key Findings
 
-- The majority of users in the Ford GoBike System are subscribers.
-- The age group with the highest frequency of bike rides is between 25-35 years.
-- More than 90% of the rides were made by subscribers and only a small percentage of the rides were made by customers.
-- Males recorded the highest count among genders with more than 70% of the rides made by males.
-- Short rides (less than 10 minutes) are most common.
-- Bike sharing was not common among users.
+From the exploratory analysis, the following key findings were identified:
 
-## Key Insights
+- The majority of users were subscribers, followed by customers.
+- Users of age 31 took the most bike rides, followed by ages 26, 30, and 29.
+- Most users did not share a bike for their trip.
+- The majority of users were male, followed by female and other genders.
+- Male users were the most common for both subscriber and customer user types.
+- Older users (age 100+) took fewer bike rides or had difficulty reaching their destination.
+- Both subscribers and customers under 80 years of age took the most bike rides.
 
-Based on the findings, the following key insights can be drawn:
+## Insights
 
-- The bike-sharing system is most popular among subscribers, especially males aged between 25-35 years.
-- More marketing strategies should be directed towards attracting the female population to increase the gender diversity of users.
-- The system should be optimized for short rides as they are the most common and can lead to increased profits.
-- Since bike sharing was not popular among users, the system can explore strategies to encourage bike sharing for all trips.
+Based on the findings, several insights were uncovered:
 
+- The company could focus on attracting more female users to increase ridership and profits.
+- Marketing efforts could be targeted at users in their 20s and 30s, as they took the most rides.
+- There could be a need for additional bikes to accommodate riders during peak hours.
+- The company could create special promotions or incentives for users to encourage bike sharing.
 
-## Tools and Libraries Used
+## Libraries Used
 
-- Python
-- Jupyter Notebook
+The following Python libraries were used for the analysis:
+
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-
