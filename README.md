@@ -27,7 +27,7 @@ Based on the findings, several insights were uncovered:
 
 
 ![chart 1](chart3.svg)
-![chart 2](chart6.svg)
+![chart 2](chart7.svg)
 
 
 
