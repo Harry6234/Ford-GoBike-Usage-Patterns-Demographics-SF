@@ -26,7 +26,7 @@ Based on the findings, several insights were uncovered:
 - The company could create special promotions or incentives for users to encourage bike sharing.
 
 
-![alt text](Project/Project_3/Final_work/chart1.svg)
+![alt text](chart3.svg)
 
 
 ## Libraries Used
