@@ -39,3 +39,8 @@ The following Python libraries were used for the analysis:
 - NumPy
 - Matplotlib
 - Seaborn
+
+## Credits
+
+- The data used in this file was obtained from ALX Data Analyst Nano-Degree Program
+
