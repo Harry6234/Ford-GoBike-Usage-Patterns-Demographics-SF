@@ -27,8 +27,6 @@ Based on the findings, several insights were uncovered:
 
 
 ![Chart 1](chart3.svg)
-![Chart 2](chart7.svg)
-![Chart 3](chart6.svg)
 ![Chart 4](chart8.svg)
 
 
